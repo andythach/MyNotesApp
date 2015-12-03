@@ -1,0 +1,32 @@
+$bgColor: #80DFFF;
+$fColor : white;
+
+h1, h2, h3, h4, h5 , h5, li, a, {
+	color: $fColor;
+}
+
+body {
+	font-family: 'Righteous', cursive;
+	background-color: $bgColor;
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+}
+
+
+#mainText {
+	font-size: 9.3em;
+	text-align: center;
+}
+
+
+#secondaryText {
+	text-align: center;
+}
+
+#post-stream {}

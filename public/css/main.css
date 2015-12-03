@@ -1,0 +1,55 @@
+h1, h2, h3, h4, h5, h5, li, a {
+  color: white; }
+
+body {
+  font-family: 'Righteous', cursive;
+  background-color: #80DFFF; }
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center; }
+
+#mainH1, #mainH3 {
+  text-align: center; }
+
+#mainH1 {
+  font-size: 9.0em;}
+
+#registerAnchor {
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+#post-stream {
+  margin-top: 25px;
+}
+
+#secondaryText {
+  text-align: center; }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.btn-primary {
+  padding: 7px 74px 5px 74px;
+}
+
+#deleteB, #editB {
+  text-decoration: none; }
+
+#deleteB {color: lightcoral;}
+
+#editB {color: cornflowerblue;}
+
+.panel-heading {
+  padding-bottom: 0px;
+  padding-top: 9px;
+  padding-left: 13px;
+   }
+/*# sourceMappingURL=main.css.map */
